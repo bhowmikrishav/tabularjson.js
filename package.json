@@ -1,0 +1,28 @@
+{
+  "name": "tabularjson.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishavbhowmik/tabularjson.js.git"
+  },
+  "keywords": [
+    "rishav",
+    "bhowmik",
+    "sqlite3",
+    "json"
+  ],
+  "author": "Rishav Bhowmik",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rishavbhowmik/tabularjson.js/issues"
+  },
+  "homepage": "https://github.com/rishavbhowmik/tabularjson.js#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.0"
+  }
+}
